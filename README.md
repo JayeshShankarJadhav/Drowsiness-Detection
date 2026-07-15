@@ -55,7 +55,7 @@ This system continuously monitors a driver's face and eyes through a webcam, cla
 
 Due to GitHub's file size limits, the training dataset and trained model weights (`drowsiness_model.keras`) are hosted externally rather than in this repository.
 
-📁 **Dataset & Model Weights (Google Drive):** [Add your Google Drive link here](https://drive.google.com/your-link-here)
+📁 **Dataset & Model Weights (Google Drive):** https://drive.google.com/drive/folders/1XshF8Ev14erHNw1ahK1Si7oiZwa9r5fT?usp=drive_link
 
 > Replace the link above with your actual shareable Google Drive link (Anyone with the link → Viewer).
 
